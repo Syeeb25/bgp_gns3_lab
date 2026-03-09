@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>BGP GNS3 Lab Project</title>
-</head>
 <body>
 
 <h1>BGP Routing Lab using GNS3</h1>
